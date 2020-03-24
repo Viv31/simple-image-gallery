@@ -1,0 +1,19 @@
+============================= dynamic Image Slider  =======================================
+Contributors:Vaibhav Gangrade
+Requires at least: 4.0
+Tested up to: 5.2
+Version :1.0
+
+== Description ==
+This is a plugin for making Easy image Gallery  where  admin can add images and view to user page by shortcode.
+
+
+== How to Use ==
+
+After installing plugin it will generate a shortcode [Gallery-world] use this shortcode wherever you want to use.
+
+== Requirements ==
+it can run on any wordpress version it reqiores only html and css and some basic javascript.
+
+
+
